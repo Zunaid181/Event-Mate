@@ -1,0 +1,6 @@
+{
+  "name": "Event Mate",
+  "description": "Event Planning and Booking Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
